@@ -1,0 +1,13 @@
+{
+  "liveServer.settings.donotShowInfoMsg": true,
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "prettier.semi": false,
+  "prettier.printWidth": 9999,
+  "editor.tabSize": 4,
+  "prettier.arrowParens": "avoid",
+  "prettier.trailingComma": "none"
+}
